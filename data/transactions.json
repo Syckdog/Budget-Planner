@@ -1,0 +1,9 @@
+{
+    "name": "My Transaction List",
+    "transactions": [{
+        "date": "2022/04/25",
+        "item": "shop",
+        "amount": 10,
+        "vendor": "tea"
+    }]
+}

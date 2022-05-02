@@ -1,0 +1,17 @@
+{
+    "name": "My transaction list",
+    "transactions": [
+        {
+            "date": "01/01/2002",
+            "item": "saw",
+            "amount": 15,
+            "vendor": "saw shop"
+        },
+        {
+            "date": "02/02/2002",
+            "item": "needle",
+            "amount": 20,
+            "vendor": "needle store"
+        }
+    ]
+}
